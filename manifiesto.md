@@ -14,3 +14,4 @@
 - Servir de punto de encuentro entre as persoas e as organizacions interesadas.
 - Impulsar iniciativas de carácter tecnolóxico.
 - Fomentar a implantación de empresas tecnológicas na área de vigo.
+- Divulgar a importacia dunha web aberta e accesible.
