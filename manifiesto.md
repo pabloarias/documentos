@@ -15,3 +15,4 @@
 - Impulsar iniciativas de carácter tecnolóxico.
 - Fomentar a implantación de empresas tecnológicas na área de vigo.
 - Divulgar a importacia dunha web aberta e accesible.
+- Divulgar a importancia da neutralidade da red.
